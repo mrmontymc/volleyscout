@@ -1,0 +1,6 @@
+{
+  "name": "VolleyScout Pro",
+  "description": "Piattaforma professionale per lo scouting di pallavolo: gestione squadre e roster, rotazioni P1-P6, schemi tattici, rilevamento live dei fondamentali e statistiche avanzate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
